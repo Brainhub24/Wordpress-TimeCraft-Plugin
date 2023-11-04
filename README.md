@@ -15,7 +15,7 @@ TimeCraft is an elegant and efficient WordPress plugin designed to provide users
 
 ## Installation
 
-1. Upload the `timecraft` folder to the `/wp-content/plugins/` directory.
+1. Upload the `TimeCraft.php` file to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 3. The current date and time will be displayed on your WordPress dashboard.
 $${\color{lightblue}Frequently Asked Questions \space \color{lightgreen}(FQA)}$$
@@ -82,12 +82,12 @@ A: Yes, TimeCraft will soon be available in the official WordPress plugin direct
 
 ## Contact
 
-For support, feature requests, and bug reports, contact us at [github@brainhub24.com](mailto:github@brainhub24.com) or visit [TimeCraft Support](http://github24.com/brainhub24/TimeCraft/).
+For support, feature requests, and bug reports, contact us at [github@brainhub24.com](mailto:github@brainhub24.com) or visit [TimeCraft Support](http://github24.com/brainhub24/Wordpress-TimeCraft-Plugin/).
 
 ## Development
 
 TimeCraft is open source software.<br>
-Visit the [GitHub repository](http://github24.com/brainhub24/TimeCraft/) to contribute or report issues.
+Visit the [GitHub repository](http://github24.com/brainhub24/Wordpress-TimeCraft-Plugin/) to contribute or report issues.
 Constributions by: [@Brainhub24](http://github24.com/brainhub24/), [@PHP24](http://github24.com/PHP24/)
 
 ## License
