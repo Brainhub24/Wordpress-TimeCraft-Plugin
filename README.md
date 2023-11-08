@@ -13,6 +13,11 @@ TimeCraft is an elegant and efficient WordPress plugin designed to provide users
 - Professional formatting for a polished look.
 - Automatic updates every second.
 
+## Example installation
+How it looks if the Plugin is installed and active.
+[DAY], ]
+![Active TimeCraft Plugin.](TimeCraft_cia_example-edit_xD.png)
+
 ## Installation
 
 1. Upload the `TimeCraft.php` file to the `/wp-content/plugins/` directory.
