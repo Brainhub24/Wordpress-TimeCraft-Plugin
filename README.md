@@ -82,7 +82,7 @@ A: Yes, TimeCraft will soon be available in the official WordPress plugin direct
 
 ## Contact
 
-For support, feature requests, and bug reports, contact us at [github@brainhub24.com](mailto:github@brainhub24.com) or visit [TimeCraft Support](http://github24.com/brainhub24/Wordpress-TimeCraft-Plugin/).
+For support, feature requests, and bug reports, contact us at [github@brainhub24.com](mailto:github@brainhub24.com) or visit [TimeCraft Support](http://github.com/brainhub24/Wordpress-TimeCraft-Plugin/).
 
 ## Development
 
