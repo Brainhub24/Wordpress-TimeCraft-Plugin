@@ -15,8 +15,17 @@ TimeCraft is an elegant and efficient WordPress plugin designed to provide users
 
 ## Example installation
 How it looks if the Plugin is installed and active.
-[DAY], ]
 ![Active TimeCraft Plugin.](TimeCraft_cia_example-edit_xD.png)
+
+## Upcoming Features
+We are actively working on enhancing TimeCraft with the following features:
+- Multilingual Support: We are working on providing translations for multiple languages to make TimeCraft accessible to a broader audience.
+- Customizable Styles: Soon, you will be able to customize the appearance of the displayed time using CSS to match your website's design.
+- Settings Page: We are planning to introduce a settings page that will allow you to configure TimeCraft according to your preferences.
+- Official WordPress Repo: TimeCraft will soon be available on the official WordPress Plugin Directory, making it easier to install and update.
+- Time Insertion Feature: We are adding a feature that allows users to insert the current time into their pages or blog topics using a simple BBCode-like syntax.
+Stay tuned for these exciting improvements!
+
 
 ## Installation
 
