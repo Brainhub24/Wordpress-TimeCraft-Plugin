@@ -107,7 +107,7 @@ For support, feature requests, and bug reports, contact us at [github@brainhub24
 ## Development
 
 TimeCraft is open source software.<br>
-Visit the [GitHub repository](http://github24.com/brainhub24/Wordpress-TimeCraft-Plugin/) to contribute or report issues.
+Visit the [GitHub repository](http://github.com/brainhub24/Wordpress-TimeCraft-Plugin/) to contribute or report issues.
 Constributions by: [@Brainhub24](http://github.com/brainhub24/), [@PHP24](http://github.com/PHP24/)
 
 ## License
