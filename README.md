@@ -30,6 +30,12 @@ $${\color{lightblue}Frequently Asked Questions \space \color{lightgreen}(FQA)}$$
 </summary>
 <details>
 <summary>
+<strong>Q: Did you hacked the CIA to install Wordpress and the Plugin? oO</strong>
+
+A: Thank you for your inquiry. However, I must emphasize that I have no intention of engaging in any form of hacking. It is essential to acknowledge that individuals engaged in malicious activities will face legal consequences. Moreover, we should maintain a deep respect for the dedicated professionals working within organizations such as the CIA and NSA. These agencies play a crucial role in safeguarding our world, and their efforts are instrumental in maintaining the security and stability of our current global landscape.
+</summary>
+<details>
+<summary>
 <strong>Q: Is TimeCraft available in multiple languages?</strong>
 
 A: Currently, TimeCraft supports English as its primary language. However, we're actively working on an update to introduce multi-language support, making TimeCraft accessible to a wider audience in the near future.
