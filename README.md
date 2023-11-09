@@ -39,12 +39,6 @@ $${\color{lightblue}Frequently Asked Questions \space \color{lightgreen}(FQA)}$$
 </summary>
 <details>
 <summary>
-<strong>Q: Did you hacked the CIA to install Wordpress and the Plugin? oO</strong>
-
-A: Thank you for your inquiry. However, I must emphasize that I have no intention of engaging in any form of hacking. It is essential to acknowledge that individuals engaged in malicious activities will face legal consequences. Moreover, we should maintain a deep respect for the dedicated professionals working within organizations such as the CIA and NSA. These agencies play a crucial role in safeguarding our world, and their efforts are instrumental in maintaining the security and stability of our current global landscape.
-</summary>
-<details>
-<summary>
 <strong>Q: Is TimeCraft available in multiple languages?</strong>
 
 A: Currently, TimeCraft supports English as its primary language. However, we're actively working on an update to introduce multi-language support, making TimeCraft accessible to a wider audience in the near future.
@@ -79,6 +73,26 @@ A: TimeCraft is designed to work seamlessly with most WordPress configurations a
 <strong>Q: Can I find this plugin in the official WordPress plugin directory?</summary></strong>
 
 A: Yes, TimeCraft will soon be available in the official WordPress plugin directory on wordpress.org. We are in the process of submitting it for review by the WordPress staff members. This review may take some time, but rest assured, you'll be able to access TimeCraft through the official directory once it's approved and published.
+</summary>
+<details>
+<summary>
+<strong>Q: Did you compromised the CIA to install Wordpress and the Plugin? oO</strong>
+
+A: Thank you for your inquiry. I´ll never [try to hack](http://tryhackme.com/signup?referrer=654c99bfdb3248ace318f0a3) these organisations. The screenshot has made from [wp24.net](https://wp24.net) with [Screenshot.Rocks](https://screenshot.rocks) and edit by [Canva.com](https://www.canva.com/join/csy-ptw-kmm)
+However, I must emphasize that I have no intention of engaging in any form of hacking at such orgs like [BND (Germany)](https://www.bnd.bund.de/), [BVT (Austria)](https://www.bvt.gv.at/), [CIA (USA)](https://www.cia.gov/), [DGSE (France)](https://www.dgse.fr/), [FSB (Russia)](https://www.fsb.ru/), [GCHQ (UK)](https://www.gchq.gov.uk/), [GRU (Russia)](https://eng.mil.ru/en/structure/forces/ground/structure/intelligence.htm), [MSS (China)](https://www.12339.gov.cn/), [MI6 (UK)](https://www.sis.gov.uk/), [NDB (Switzerland)](https://www.vbs.admin.ch/), [NSA (USA)](https://www.nsa.gov/), [PET (Denmark)](https://www.pet.dk/), [PLA General Staff Department (China)](http://eng.chinamil.com.cn/CMC/Departments/JointStaffDepartment), [PST (Norway)](https://www.pst.no/), [SÄPO (Sweden)](https://www.sapo.se/), [EU INTCEN (EU)]([https://www.intcen.europa.eu](https://de.wikipedia.org/wiki/INTCEN)/).
+
+It is essential to acknowledge that individuals engaged in malicious activities will face legal consequences.
+But yes, [try to hack](http://tryhackme.com/signup?referrer=654c99bfdb3248ace318f0a3) myself every second day in my own IT-Lab - former "[lab.one](http://lab.one)" now only at localhost.
+Moreover, we should maintain a deep respect for the dedicated professionals working within organizations in such organisations.
+These agencies play a crucial role in safeguarding our world, and their efforts are instrumental in maintaining the security and stability of our current global landscape.
+These orgs search professionals - Go apply!
+</summary>
+<details>
+<summary>
+<strong>Q: Why you add the CIA-URL to the screenshot exactly?</strong>
+
+A: I´m a big fan of any instutation like the cia, nsa etc.
+Moreover, we should maintain a deep respect for the dedicated professionals working within organizations such as the CIA. These agencies play a crucial role in safeguarding our world, and their efforts are instrumental in maintaining the security and stability of our current global landscape.
 </summary>
   If you have more question, feel free to ask me "github@brainhub24.com".
 </details>
