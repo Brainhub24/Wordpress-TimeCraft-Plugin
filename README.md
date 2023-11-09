@@ -83,16 +83,17 @@ However, I must emphasize that I have no intention of engaging in any form of ha
 
 It is essential to acknowledge that individuals engaged in malicious activities will face legal consequences.
 But yes, [try to hack](http://tryhackme.com/signup?referrer=654c99bfdb3248ace318f0a3) myself every second day in my own IT-Lab - former "[lab.one](http://lab.one)" now only at localhost.
-Moreover, we should maintain a deep respect for the dedicated professionals working within organizations in such organisations.
-These agencies play a crucial role in safeguarding our world, and their efforts are instrumental in maintaining the security and stability of our current global landscape.
-These orgs search professionals - Go apply!
 </summary>
 <details>
 <summary>
 <strong>Q: Why you add the CIA-URL to the screenshot exactly?</strong>
 
 A: I´m a big fan of any instutation like the cia, nsa etc.
-Moreover, we should maintain a deep respect for the dedicated professionals working within organizations such as the CIA. These agencies play a crucial role in safeguarding our world, and their efforts are instrumental in maintaining the security and stability of our current global landscape.
+Moreover, we should maintain a deep respect for the dedicated professionals working within organizations such as the CIA.
+
+These agencies play a crucial role in safeguarding our world, and their efforts are instrumental in maintaining the security and stability of our current global landscape.
+
+These orgs search professionals - Go apply!
 </summary>
   If you have more question, feel free to ask me "github@brainhub24.com".
 </details>
