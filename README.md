@@ -82,7 +82,7 @@ A: Thank you for your inquiry. I´ll never [try to hack](http://tryhackme.com/si
 However, I must emphasize that I have no intention of engaging in any form of hacking at such orgs like [BND (Germany)](https://www.bnd.bund.de/), [BVT (Austria)](https://www.bvt.gv.at/), [CIA (USA)](https://www.cia.gov/), [DGSE (France)](https://www.dgse.fr/), [FSB (Russia)](https://www.fsb.ru/), [GCHQ (UK)](https://www.gchq.gov.uk/), [GRU (Russia)](https://eng.mil.ru/en/structure/forces/ground/structure/intelligence.htm), [MSS (China)](https://www.12339.gov.cn/), [MI6 (UK)](https://www.sis.gov.uk/), [NDB (Switzerland)](https://www.vbs.admin.ch/), [NSA (USA)](https://www.nsa.gov/), [PET (Denmark)](https://www.pet.dk/), [PLA General Staff Department (China)](http://eng.chinamil.com.cn/CMC/Departments/JointStaffDepartment), [PST (Norway)](https://www.pst.no/), [SÄPO (Sweden)](https://www.sapo.se/), [EU INTCEN (EU)]([https://www.intcen.europa.eu](https://de.wikipedia.org/wiki/INTCEN)/).
 
 It is essential to acknowledge that individuals engaged in malicious activities will face legal consequences.
-But yes, [try to hack](http://tryhackme.com/signup?referrer=654c99bfdb3248ace318f0a3) myself every second day in my own IT-Lab - former "[lab.one](http://lab.one)" now only at localhost.
+But yes, i [try to hack](http://tryhackme.com/signup?referrer=654c99bfdb3248ace318f0a3) myself every second day in my own IT-Lab - former "[lab.one](http://lab.one)" now only at localhost.
 </summary>
 <details>
 <summary>
